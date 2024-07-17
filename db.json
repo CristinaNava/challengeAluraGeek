@@ -1,0 +1,82 @@
+{
+  "imagenes": [
+    {
+      "id": "2",
+      "titulo": "Pulseras de Yin Yang",
+      "precio": "$50",
+      "imagen": "./img/pulseraGinJan.jpg"
+    },
+    {
+      "id": "3",
+      "titulo": "Pulseras de infinito",
+      "precio": "$50",
+      "imagen": "./img/pulseraInfinito.jpg"
+    },
+    {
+      "id": "4",
+      "titulo": "Pulseras para pareja",
+      "precio": "$60",
+      "imagen": "img/pulseraInicial.jpg"
+    },
+    {
+      "id": "5179",
+      "titulo": "Collar de pelas blancas",
+      "precio": "$70",
+      "imagen": "https://ss571.liverpool.com.mx/lg/1154164797_1p.jpg"
+    },
+    {
+      "id": "341c",
+      "titulo": "Collar de perlas blancas",
+      "precio": "$50 c/u",
+      "imagen": "https://ss571.liverpool.com.mx/lg/1154164797_1p.jpg"
+    },
+    {
+      "id": "2634",
+      "titulo": "Collar de perlas blancas",
+      "precio": "$50 c/u",
+      "imagen": "https://ss571.liverpool.com.mx/lg/1154164797_1p.jpg"
+    },
+    {
+      "id": "bda1",
+      "titulo": "Set de pulsera, aretes y collar de perlas",
+      "precio": "$700",
+      "imagen": "https://ss571.liverpool.com.mx/lg/1154164797.jpg"
+    },
+    {
+      "id": "9bae",
+      "titulo": "Set de pulsera, aretes y collar de perlas",
+      "precio": "$700",
+      "imagen": "https://ss571.liverpool.com.mx/lg/1154164797.jpg"
+    },
+    {
+      "id": "47e5",
+      "titulo": "Set de joyeria",
+      "precio": "$700",
+      "imagen": "https://ss571.liverpool.com.mx/lg/1154164797.jpg"
+    },
+    {
+      "id": "7aa3",
+      "titulo": "Set de joyeria",
+      "precio": "$700",
+      "imagen": "https://ss571.liverpool.com.mx/lg/1154164797.jpg"
+    },
+    {
+      "id": "52a7",
+      "titulo": "Set de joyeria",
+      "precio": "$700",
+      "imagen": "https://ss571.liverpool.com.mx/sm/1100536036.jpg"
+    },
+    {
+      "id": "c2e8",
+      "titulo": "Set de pulsera, aretes y collar de perlas",
+      "precio": "$700",
+      "imagen": "https://ss571.liverpool.com.mx/lg/1154164797.jpg"
+    },
+    {
+      "id": "4db6",
+      "titulo": "Set de joyeria",
+      "precio": "$900",
+      "imagen": "https://ss571.liverpool.com.mx/sm/1091815628.jpg"
+    }
+  ]
+}

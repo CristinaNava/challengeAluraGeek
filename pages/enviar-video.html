@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="es">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="../css/reset.css">
+    <link rel="stylesheet" href="../css/estilos.css">
+    <link rel="stylesheet" href="../css/estilos-form.css">
+    <link rel="stylesheet" href="../css/flexbox.css">
+    <title>Mandala Joyeria</title>
+    <link rel="shortcut icon" href="../img/logotipo mandala.jpg" type="image/x-icon">
+</head>
+
+<body>
+
+    <!-- encabezado -->
+    <header>
+
+        <nav class="encabezado">
+            <a class="logo" href="../index.html"><img src="../img/logo-nuevo.png" alt="Regreso a inicio"></a>
+        </nav>
+
+    </header>
+
+    <main class="container">
+
+        <form class="container__formulario" data-formulario>
+            <h2 class="formulario__titulo">¡Envía una imagen!</h3>
+
+                    <div class="formulario__campo">
+                    <label class="campo__etiqueta" for="url">Ingresa el titulo del producto</label>
+                    <input name="url" class="campo__escrita" required
+                        placeholder="Ingresa el titulo del producto" id='url' data-titulo/>
+                </div> 
+
+
+                <div class="formulario__campo">
+                    <label class="campo__etiqueta" for="titulo">Ingresa el precio del producto</label>
+                    <input name="titulo" class="campo__escrita" required placeholder="Ingresa el precio del producto"
+                        id='titulo' data-imagen/>
+                </div>
+
+                <div class="formulario__campo">
+                    <label class="campo__etiqueta" for="imagem">Ingresa la url del producto</label>
+                    <input name="imagem" class="campo__escrita" required placeholder="Inserta la URL del producto"
+                        id='imagem' data-url/>
+                </div>
+
+                <div class="contenedor__agregar__limpiar">
+                    <input class="formulario__boton" type="submit" />
+                    <button class="reset__boton" type="reset">Limpiar</button>
+                </div>
+        </form>
+        <section class="footer">
+            <div class="footerTitulo">
+                <p>Desarrollado por Maria Cristina Nava Rubio</p>
+                <p>2024</p>
+            </div>
+        </section>
+    </div>
+
+    </main>
+    <script src="../js/crearVideo.js" type="module"></script>
+</body>
+
+</html>
